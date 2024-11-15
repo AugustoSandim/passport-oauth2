@@ -1,0 +1,27 @@
+{
+  "name": "@augustosandim/passport-oauth2",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 authentication strategy for Passport.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "authn",
+    "authentication",
+    "authz",
+    "authorization",
+    "oauth",
+    "oauth2"
+  ],
+  "author": "Augusto Sandim",
+  "license": "MIT",
+  "dependencies": {
+    "passport": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/passport": "^1.0.17"
+  }
+}
